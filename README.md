@@ -40,3 +40,6 @@ A simple OAuth implementation using FastAPI backend and basic HTML frontend.
    ```
    
 6. Open `frontend/index.html` in your browser to test the application.
+
+Ensure Safety Nets and Setup the CORS accordingly.
+Cause thats not Configured, Its kept [*] for any requests.
